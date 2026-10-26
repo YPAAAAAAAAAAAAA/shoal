@@ -1,0 +1,20 @@
+{
+  "id": "shoal",
+  "title": {
+    "en": "shoal",
+    "zh": "鱼群"
+  },
+  "intro": {
+    "en": "A leaderless school of fish in a planted tank. Touch the water and the school opens around your finger; lift away and the hole closes.",
+    "zh": "水草缸里没有领头鱼的鱼群。手指碰水，鱼群便散开让路；松开后，缺口又慢慢合上。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/shoal.css",
+    "vendor/shoal.js",
+    "vendor/LICENSE.txt"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "ypaaaaaaaaaaaaa/shoal"
+}
